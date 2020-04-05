@@ -1,0 +1,4 @@
+C:\Dev\GameEngine\Weasel\Weasel\vendor\GLAD\bin\Debug-windows-x86_64\GLAD\GLAD.pdb
+C:\Dev\GameEngine\Weasel\Weasel\vendor\GLAD\bin-int\Debug-windows-x86_64\GLAD\GLAD.pdb
+C:\Dev\Minesweeper_Weasel\Weasel\Weasel\vendor\GLAD\bin\Debug-windows-x86_64\GLAD\GLAD.pdb
+C:\Dev\Minesweeper_Weasel\Weasel\Weasel\vendor\GLAD\bin-int\Debug-windows-x86_64\GLAD\GLAD.pdb

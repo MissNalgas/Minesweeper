@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Minesweeper">
+      <UniqueIdentifier>{C9826FA5-3538-E89A-BE2C-E2712AE1DE9E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Minesweeper\GameLayer.h">
+      <Filter>Minesweeper</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Minesweeper\Memory.h">
+      <Filter>Minesweeper</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Minesweeper\Random.h">
+      <Filter>Minesweeper</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Minesweeper\Tile.h">
+      <Filter>Minesweeper</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Minesweeper\Tilemap.h">
+      <Filter>Minesweeper</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\Minesweeper\GameLayer.cpp">
+      <Filter>Minesweeper</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Minesweeper\Memory.cpp">
+      <Filter>Minesweeper</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Minesweeper\Random.cpp">
+      <Filter>Minesweeper</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Minesweeper\Tile.cpp">
+      <Filter>Minesweeper</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Minesweeper\Tilemap.cpp">
+      <Filter>Minesweeper</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SandboxApp.cpp" />
+  </ItemGroup>
+</Project>
