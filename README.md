@@ -2,6 +2,6 @@
 Minesweeper
 
 
-Left click: Pick a cell.
-Middle click: Reset tilemap.
-Right click: Flag a cell.
+<b>Left click</b>: Pick a cell.<br>
+<b>Middle click:</b> Reset tilemap.<br>
+<b>Right click:</b> Flag a cell.<br>
